@@ -1,0 +1,8 @@
+C:\Users\xmetrix\Desktop\car server\Car Server\CarPlugin\bin\Debug\CarPlugin.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\CarPlugin\bin\Debug\CarPlugin.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\CarPlugin\bin\Debug\CarPlugin.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\CarPlugin\obj\Debug\CarPlugin.Resources.resources
+C:\Users\xmetrix\Desktop\car server\Car Server\CarPlugin\obj\Debug\CarPlugin.vbproj.GenerateResource.Cache
+C:\Users\xmetrix\Desktop\car server\Car Server\CarPlugin\obj\Debug\CarPlugin.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\CarPlugin\obj\Debug\CarPlugin.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\CarPlugin\obj\Debug\CarPlugin.pdb

@@ -1,0 +1,13 @@
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\Car Server.exe
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\Car Server.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\Car Server.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\CarPlugin.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\CarPlugin.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\CarPlugin.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\obj\x86\Debug\Car Server.vbprojResolveAssemblyReference.cache
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\obj\x86\Debug\Car_Server.Form1.resources
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\obj\x86\Debug\Car_Server.Resources.resources
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\obj\x86\Debug\Car Server.vbproj.GenerateResource.Cache
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\obj\x86\Debug\Car Server.exe
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\obj\x86\Debug\Car Server.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\obj\x86\Debug\Car Server.pdb

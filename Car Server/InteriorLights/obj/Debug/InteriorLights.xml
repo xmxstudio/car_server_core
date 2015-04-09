@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+InteriorLights
+</name>
+</assembly>
+<members>
+<member name="E:InteriorLights.Plugin.PluginLoaded">
+	<summary>
+ Controls the interior lights. Ability to control each led light independantly, have a disco party for example!
+ </summary>
+	<remarks>gets window state from core system upon init. </remarks>
+</member><member name="P:InteriorLights.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:InteriorLights.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:InteriorLights.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

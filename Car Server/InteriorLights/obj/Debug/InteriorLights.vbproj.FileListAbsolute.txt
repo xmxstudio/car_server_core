@@ -1,0 +1,15 @@
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\bin\Debug\InteriorLights.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\bin\Debug\InteriorLights.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\bin\Debug\InteriorLights.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\bin\Debug\CarPlugin.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\bin\Debug\CarPlugin.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\bin\Debug\CarPlugin.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\plugins\InteriorLights.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\plugins\InteriorLights.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\plugins\InteriorLights.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\obj\Debug\InteriorLights.vbprojResolveAssemblyReference.cache
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\obj\Debug\InteriorLights.Resources.resources
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\obj\Debug\InteriorLights.vbproj.GenerateResource.Cache
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\obj\Debug\InteriorLights.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\obj\Debug\InteriorLights.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\InteriorLights\obj\Debug\InteriorLights.pdb

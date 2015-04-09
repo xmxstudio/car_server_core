@@ -1,0 +1,18 @@
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\bin\Debug\WindowControl.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\bin\Debug\WindowControl.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\bin\Debug\WindowControl.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\bin\Debug\CarPlugin.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\bin\Debug\CarPlugin.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\bin\Debug\CarPlugin.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\plugins\WindowControl.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\plugins\WindowControl.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\plugins\WindowControl.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\plugins\WindowControl.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\plugins\WindowControl.pdb
+C:\Users\xmetrix\Desktop\car server\Car Server\Car Server\bin\Debug\plugins\WindowControl.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\obj\Debug\WindowControl.vbprojResolveAssemblyReference.cache
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\obj\Debug\WindowControl.Resources.resources
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\obj\Debug\WindowControl.vbproj.GenerateResource.Cache
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\obj\Debug\WindowControl.dll
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\obj\Debug\WindowControl.xml
+C:\Users\xmetrix\Desktop\car server\Car Server\WindowControl\obj\Debug\WindowControl.pdb
